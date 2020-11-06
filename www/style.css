@@ -1,0 +1,24 @@
+
+body {
+  background-color: #333;
+  color: lime;
+  font-family: sans-serif;
+}
+
+#title {
+  margin: 7vh;
+}
+
+#colors {
+  border: 3px solid lime;
+}
+
+#buttons {
+  margin-top: 5vh;
+}
+
+#content {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
